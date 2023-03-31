@@ -1,0 +1,581 @@
+﻿Codigo;Setor
+RRRP3;Petróleo e Gas
+TTEN3;Agro e Pesca
+QVQP3B;Energia Elétrica
+ABCB4;Finanças e Seguros
+EALT3;Siderur & Metalur
+EALT4;Siderur & Metalur
+AERI3;Máquinas Indust
+AESB3;Energia Elétrica
+AESO3;Energia Elétrica
+AFLT3;Energia Elétrica
+GRAO3;Agro e Pesca
+AGXY3;Agro e Pesca
+BRGE3;Outros
+BRGE5;Outros
+BRGE6;Outros
+BRGE7;Outros
+BRGE8;Outros
+BRGE11;Outros
+BRGE12;Outros
+CRIV3;Finanças e Seguros
+CRIV4;Finanças e Seguros
+RPAD3;Outros
+RPAD5;Outros
+RPAD6;Outros
+BRIV3;Finanças e Seguros
+BRIV4;Finanças e Seguros
+ALSO3;Outros
+APTI3;Siderur & Metalur
+APTI4;Siderur & Metalur
+FRRN3B;Transporte Serviç
+FRRN5B;Transporte Serviç
+FRRN6B;Transporte Serviç
+AALR3;Outros
+ALLD3;Comércio
+ALPA3;Textil
+ALPA4;Textil
+APER3;Finanças e Seguros
+AVLL3;Construção
+ALUP3;Energia Elétrica
+ALUP4;Energia Elétrica
+ALUP11;Energia Elétrica
+BAZA3;Finanças e Seguros
+ABEV3;Alimentos e Beb
+AMBP3;Outros
+AMER3;Comércio
+CBEE3;Energia Elétrica
+ANIM3;Outros
+ARZZ3;Textil
+ARML3;Outros
+ASAI3;Comércio
+ATMP3;Outros
+ATOM3;Telecomunicações
+AURA33;Mineração
+AURE3;Energia Elétrica
+AZEV3;Construção
+AZEV4;Construção
+AZUL4;Transporte Serviç
+BLUT3;Alimentos e Beb
+BLUT4;Alimentos e Beb
+B3SA3;Finanças e Seguros
+BAHI3;Outros
+BMGB4;Finanças e Seguros
+BPAN4;Finanças e Seguros
+BPAN12;Finanças e Seguros
+BGIP3;Finanças e Seguros
+BGIP4;Finanças e Seguros
+BEES3;Finanças e Seguros
+BEES4;Finanças e Seguros
+BPAR3;Finanças e Seguros
+BRSR3;Finanças e Seguros
+BRSR5;Finanças e Seguros
+BRSR6;Finanças e Seguros
+BDLL3;Máquinas Indust
+BDLL4;Máquinas Indust
+BALM3;Outros
+BALM4;Outros
+BBML3;Transporte Serviç
+BBSE3;Finanças e Seguros
+BMOB3;Software e Dados
+BETP3B;Finanças e Seguros
+BMKS3;Veiculos e peças
+BIOM3;Outros
+BKBR3;Outros
+BLAU3;Química
+SOJA3;Agro e Pesca
+BOAS3;Software e Dados
+BOBR3;Química
+BOBR4;Química
+BRML3;Outros
+BRBI11;Finanças e Seguros
+BRPR3;Outros
+BBDC3;Finanças e Seguros
+BBDC4;Finanças e Seguros
+BRAP3;Outros
+BRAP4;Outros
+BRAP99;Outros
+BBAS3;Finanças e Seguros
+AGRO3;Agro e Pesca
+BRKM3;Química
+BRKM5;Química
+BRKM6;Química
+BSLI3;Finanças e Seguros
+BSLI4;Finanças e Seguros
+BRFS3;Alimentos e Beb
+BRIT3;Outros
+BRQB3;Software e Dados
+BPAC3;Finanças e Seguros
+BPAC5;Finanças e Seguros
+BPAC11;Finanças e Seguros
+CABI3B;Outros
+CACO3B;Outros
+CXSE3;Finanças e Seguros
+CAMB3;Textil
+CAML3;Alimentos e Beb
+CRFB3;Comércio
+CASN3;Outros
+CASN4;Outros
+CBAV3;Mineração
+CCRO3;Transporte Serviç
+CEAB3;Comércio
+CEBR3;Energia Elétrica
+CEBR5;Energia Elétrica
+CEBR6;Energia Elétrica
+CEDO3;Textil
+CEDO4;Textil
+CEED3;Energia Elétrica
+CEED4;Energia Elétrica
+EEEL3;Energia Elétrica
+EEEL4;Energia Elétrica
+CEGR3;Petróleo e Gas
+CLSC3;Energia Elétrica
+CLSC4;Energia Elétrica
+GPAR3;Energia Elétrica
+CEPE3;Energia Elétrica
+CEPE5;Energia Elétrica
+CEPE6;Energia Elétrica
+MAPT3;Outros
+MAPT4;Outros
+CMIG3;Energia Elétrica
+CMIG4;Energia Elétrica
+CIEL3;Software e Dados
+CMSA3;Outros
+CMSA4;Outros
+CNSY3;Outros
+CLSA3;Comércio
+CEEB3;Energia Elétrica
+CEEB5;Energia Elétrica
+CEEB6;Energia Elétrica
+COCE3;Energia Elétrica
+COCE5;Energia Elétrica
+COCE6;Energia Elétrica
+COGN3;Outros
+COMR3;Energia Elétrica
+CGAS3;Petróleo e Gas
+CGAS5;Petróleo e Gas
+PASS3;Petróleo e Gas
+PASS6;Petróleo e Gas
+CRTE3B;Transporte Serviç
+CRTE5B;Transporte Serviç
+CALI3;Construção
+CSMG3;Outros
+CPLE3;Energia Elétrica
+CPLE5;Energia Elétrica
+CPLE6;Energia Elétrica
+CPLE11;Energia Elétrica
+CORR3;Outros
+CORR4;Outros
+CSAN3;Petróleo e Gas
+CSRN3;Energia Elétrica
+CSRN5;Energia Elétrica
+CSRN6;Energia Elétrica
+CTNM3;Textil
+CTNM4;Textil
+CPFE3;Energia Elétrica
+CRDE3;Construção
+CRPG3;Química
+CRPG5;Química
+CRPG6;Química
+CSED3;Outros
+CMIN3;Mineração
+CARD3;Outros
+CTCA3;Agro e Pesca
+CURY3;Construção
+CVCB3;Transporte Serviç
+CYRE3;Construção
+DMVF3;Comércio
+DASA3;Outros
+DESK3;Telecomunicações
+DXCO3;Outros
+DEXP3;Outros
+DEXP4;Outros
+PNVL3;Comércio
+DIRR3;Construção
+DOHL3;Textil
+DOHL4;Textil
+DMMO3;Petróleo e Gas
+DOTZ3;Outros
+DTCY3;Outros
+DTCY4;Outros
+ECOR3;Transporte Serviç
+EKTR3;Energia Elétrica
+EKTR4;Energia Elétrica
+ELET3;Energia Elétrica
+ELET5;Energia Elétrica
+ELET6;Energia Elétrica
+ELMD3;Outros
+LIPR3;Energia Elétrica
+EMAE3;Energia Elétrica
+EMAE4;Energia Elétrica
+EPAR3;Comércio
+EMBR3;Veiculos e peças
+ENAT3;Petróleo e Gas
+ENBR3;Energia Elétrica
+ENGI3;Energia Elétrica
+ENGI4;Energia Elétrica
+ENGI11;Energia Elétrica
+ENMT3;Energia Elétrica
+ENMT4;Energia Elétrica
+ENEV3;Energia Elétrica
+EGIE3;Energia Elétrica
+ENJU3;Comércio
+EQMA3B;Energia Elétrica
+EQMA5B;Energia Elétrica
+EQMA6B;Energia Elétrica
+EQPA3;Energia Elétrica
+EQPA5;Energia Elétrica
+EQPA6;Energia Elétrica
+EQPA7;Energia Elétrica
+EQTL3;Energia Elétrica
+ESPA3;Outros
+ALPK3;Outros
+ESTR3;Outros
+ESTR4;Outros
+ETER3;Minerais não Met
+EUCA3;Outros
+EUCA4;Outros
+EUFA3;Comércio
+EVEN3;Construção
+BAUH3;Alimentos e Beb
+BAUH4;Alimentos e Beb
+EZTC3;Construção
+FHER3;Química
+FESA3;Siderur & Metalur
+FESA4;Siderur & Metalur
+FNCN3;Finanças e Seguros
+FLRY3;Outros
+FLEX3;Outros
+FRAS3;Veiculos e peças
+G2DI33;Finanças e Seguros
+GFSA3;Construção
+OPGM3B;Outros
+GSHP3;Outros
+GEPA3;Energia Elétrica
+GEPA4;Energia Elétrica
+GGBR3;Siderur & Metalur
+GGBR4;Siderur & Metalur
+GOAU3;Siderur & Metalur
+GOAU4;Siderur & Metalur
+GETT3;Software e Dados
+GETT4;Software e Dados
+GETT11;Software e Dados
+NINJ3;Comércio
+GOLL3;Transporte Serviç
+GOLL4;Transporte Serviç
+GPIV33;Outros
+GGPS3;Outros
+CGRA3;Comércio
+CGRA4;Comércio
+GRND3;Textil
+GMAT3;Comércio
+NTCO3;Comércio
+SBFG3;Comércio
+SOMA3;Comércio
+GUAR3;Textil
+HBTS3;Outros
+HBTS5;Outros
+HBTS6;Outros
+HAGA3;Siderur & Metalur
+HAGA4;Siderur & Metalur
+HAPV3;Outros
+HBRE3;Construção
+HBOR3;Construção
+HETA3;Siderur & Metalur
+HETA4;Siderur & Metalur
+HBSA3;Transporte Serviç
+HMOB3;Outros
+HOOT3;Outros
+HOOT4;Outros
+HYPE3;Outros
+IGBR3;Eletroeletrônicos
+IGSN3;Outros
+IGTI3;Outros
+IGTI11;Outros
+PARD3;Outros
+MEAL3;Comércio
+CATA3;Textil
+CATA4;Textil
+INEP3;Outros
+INEP4;Outros
+IFCM3;Comércio
+INTB3;Eletroeletrônicos
+INNT3;Construção
+IVPR3B;Transporte Serviç
+IVPR4B;Transporte Serviç
+FIGE3;Outros
+FIGE4;Outros
+MYPK3;Veiculos e peças
+RANI3;Papel e Celulose
+IRBR3;Finanças e Seguros
+ITSA3;Outros
+ITSA4;Outros
+ITUB3;Finanças e Seguros
+ITUB4;Finanças e Seguros
+JALL3;Outros
+JBSS3;Alimentos e Beb
+JHSF3;Construção
+JFEN3;Construção
+JOPA3;Alimentos e Beb
+JOPA4;Alimentos e Beb
+JSLG3;Transporte Serviç
+KLAS3;Construção
+CTKA3;Textil
+CTKA4;Textil
+KEPL3;Siderur & Metalur
+KLBN3;Papel e Celulose
+KLBN4;Papel e Celulose
+KLBN11;Papel e Celulose
+KRSA3;Outros
+LAVV3;Construção
+LLBI3;Comércio
+LLBI4;Comércio
+LLIS3;Textil
+LMED3;Outros
+LIGT3;Energia Elétrica
+LTEL3B;Mineração
+LTLA3B;Mineração
+RENT3;Outros
+LWSA3;Software e Dados
+LOGG3;Construção
+LOGN3;Transporte Serviç
+AMAR3;Comércio
+LREN3;Comércio
+LPSB3;Outros
+LUPA3;Siderur & Metalur
+MDIA3;Alimentos e Beb
+MSRO3;Outros
+MGLU3;Comércio
+MGEL3;Siderur & Metalur
+MGEL4;Siderur & Metalur
+POMO3;Veiculos e peças
+POMO4;Veiculos e peças
+MRFG3;Alimentos e Beb
+MATD3;Outros
+MSPA3;Papel e Celulose
+MSPA4;Papel e Celulose
+CASH3;Software e Dados
+MELK3;Construção
+MNZC3B;Transporte Serviç
+BMEB3;Finanças e Seguros
+BMEB4;Finanças e Seguros
+MERC3;Finanças e Seguros
+MERC4;Finanças e Seguros
+BMIN3;Finanças e Seguros
+BMIN4;Finanças e Seguros
+MTIG3;Siderur & Metalur
+MTIG4;Siderur & Metalur
+LEVE3;Veiculos e peças
+FRIO3;Máquinas Indust
+MTSA3;Siderur & Metalur
+MTSA4;Siderur & Metalur
+MILS3;Outros
+MMAQ3;Comércio
+MMAQ4;Comércio
+BEEF3;Alimentos e Beb
+MNPR3;Alimentos e Beb
+MTRE3;Construção
+MMXM3;Mineração
+MBLY3;Comércio
+MODL3;Finanças e Seguros
+MODL4;Finanças e Seguros
+MODL11;Finanças e Seguros
+MOAR3;Outros
+MDNE3;Construção
+MOVI3;Outros
+MRSA3B;Transporte Serviç
+MRSA5B;Transporte Serviç
+MRSA6B;Transporte Serviç
+MRVE3;Construção
+MLAS3;Eletroeletrônicos
+MULT3;Outros
+MNDL3;Siderur & Metalur
+NEOE3;Energia Elétrica
+NGRD3;Software e Dados
+NEXP3;Outros
+BNBR3;Finanças e Seguros
+NORD3;Máquinas Indust
+NRTQ3;Química
+NUTR3;Química
+OPCT3;Mineração
+ODER3;Alimentos e Beb
+ODER4;Alimentos e Beb
+ODPV3;Outros
+OIBR3;Telecomunicações
+OIBR4;Telecomunicações
+MEGA3;Energia Elétrica
+ONCO3;Outros
+ORVR3;Energia Elétrica
+OSXB3;Veiculos e peças
+OFSA3;Química
+PCAR3;Comércio
+PCAR99;Comércio
+PDTC3;Software e Dados
+PGMN3;Comércio
+PATI3;Siderur & Metalur
+PATI4;Siderur & Metalur
+PEAB3;Outros
+PEAB4;Outros
+PMAM3;Siderur & Metalur
+PDGR3;Construção
+RPMG3;Petróleo e Gas
+PETR3;Petróleo e Gas
+PETR4;Petróleo e Gas
+RECV3;Petróleo e Gas
+PRIO3;Petróleo e Gas
+PTNT3;Textil
+PTNT4;Textil
+PETZ3;Comércio
+PINE3;Finanças e Seguros
+PINE4;Finanças e Seguros
+PLPL3;Construção
+PLAS3;Veiculos e peças
+PPAR3;Outros
+FRTA3;Agro e Pesca
+PSSA3;Finanças e Seguros
+PTBL3;Minerais não Met
+POSI3;Eletroeletrônicos
+PPLA11;Finanças e Seguros
+PTCA3;Eletroeletrônicos
+PTCA11;Eletroeletrônicos
+PRNR3;Construção
+PFRM3;Comércio
+PRPT3B;Outros
+QUAL3;Outros
+QUSW3;Software e Dados
+LJQQ3;Comércio
+RADL3;Comércio
+RAIZ4;Agro e Pesca
+RAPT3;Veiculos e peças
+RAPT4;Veiculos e peças
+RCSL3;Veiculos e peças
+RCSL4;Veiculos e peças
+RDOR3;Outros
+REDE3;Energia Elétrica
+RNEW3;Energia Elétrica
+RNEW4;Energia Elétrica
+RNEW11;Energia Elétrica
+RSUL3;Veiculos e peças
+RSUL4;Veiculos e peças
+RDNI3;Construção
+RBNS11;Comércio
+ROMI3;Máquinas Indust
+RSID3;Construção
+RAIL3;Transporte Serviç
+SBSP3;Outros
+SAPR3;Outros
+SAPR4;Outros
+SAPR11;Outros
+SNSY3;Outros
+SNSY5;Outros
+SNSY6;Outros
+SANB3;Finanças e Seguros
+SANB4;Finanças e Seguros
+SANB99;Finanças e Seguros
+SANB11;Finanças e Seguros
+CTSA3;Textil
+CTSA4;Textil
+STBP3;Transporte Serviç
+SCAR3;Outros
+SMTO3;Outros
+SLED3;Outros
+SLED4;Outros
+SHUL3;Veiculos e peças
+SHUL4;Veiculos e peças
+CSAB3;Finanças e Seguros
+CSAB4;Finanças e Seguros
+SEQL3;Transporte Serviç
+SEER3;Outros
+CSNA3;Siderur & Metalur
+SIMH3;Transporte Serviç
+SQIA3;Software e Dados
+SLCE3;Agro e Pesca
+SMFT3;Outros
+SOND3;Outros
+SOND5;Outros
+SOND6;Outros
+SGPS3;Textil
+AHEB3;Outros
+AHEB5;Outros
+AHEB6;Outros
+STTR3;Máquinas Indust
+STKF3;Energia Elétrica
+OPSE3B;Outros
+OPTS3B;Telecomunicações
+SULA3;Finanças e Seguros
+SULA4;Finanças e Seguros
+SULA11;Finanças e Seguros
+NEMO3;Outros
+NEMO5;Outros
+NEMO6;Outros
+SUZB3;Papel e Celulose
+SYNE3;Outros
+TAEE3;Energia Elétrica
+TAEE4;Energia Elétrica
+TAEE11;Energia Elétrica
+TASA3;Siderur & Metalur
+TASA4;Siderur & Metalur
+TRAD3;Software e Dados
+TECN3;Outros
+TCSA3;Construção
+TCNO3;Outros
+TCNO4;Outros
+TGMA3;Transporte Serviç
+TEGA3;Construção
+TEKA3;Textil
+TEKA4;Textil
+TKNO3;Siderur & Metalur
+TKNO4;Siderur & Metalur
+TELB3;Telecomunicações
+TELB4;Telecomunicações
+VIVT3;Telecomunicações
+TEND3;Construção
+LAND3;Outros
+TXRX3;Textil
+TXRX4;Textil
+TIMS3;Telecomunicações
+SHOW3;Outros
+TOTS3;Software e Dados
+TFCO4;Comércio
+TRPL3;Energia Elétrica
+TRPL4;Energia Elétrica
+LUXM3;Outros
+LUXM4;Outros
+TRIS3;Construção
+TPIS3;Transporte Serviç
+TUPY3;Veiculos e peças
+UGPA3;Petróleo e Gas
+UCAS3;Outros
+FIQE3;Telecomunicações
+UNIP3;Química
+UNIP5;Química
+UNIP6;Química
+UPKP3B;Energia Elétrica
+USIM3;Siderur & Metalur
+USIM5;Siderur & Metalur
+USIM6;Siderur & Metalur
+VALE3;Mineração
+VLID3;Outros
+VAMO3;Outros
+VIIA3;Comércio
+VBBR3;Petróleo e Gas
+VITT3;Agro e Pesca
+VIVA3;Comércio
+VVEO3;Comércio
+VIVR3;Construção
+VULC3;Textil
+LVTC3;Comércio
+WEGE3;Máquinas Indust
+WEST3;Comércio
+MWET3;Veiculos e peças
+MWET4;Veiculos e peças
+WHRL3;Eletroeletrônicos
+WHRL4;Eletroeletrônicos
+PORT3;Transporte Serviç
+WIZS3;Finanças e Seguros
+WLMM3;Comércio
+WLMM4;Comércio
+YBRA3B;Outros
+YDUQ3;Outros
+BIDI3;Finanças e Seguros
+BIDI4;Finanças e Seguros
