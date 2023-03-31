@@ -8,8 +8,8 @@ import seaborn as sns
 
 #Trazendo as bases.
 
-Sectors = pd.read_csv("C:\\Users\\gabri\\OneDrive\\Career\\insertus\\Fundo Quant\\Trabalho Correlation\\Setores.csv",delimiter = ";",index_col = "Codigo")
-Fech = pd.read_csv("C:\\Users\\gabri\\OneDrive\\Career\\insertus\\Fundo Quant\\Trabalho Correlation\\Fechamento.csv",delimiter = ";",index_col="Data",decimal = ".")
+Sectors = pd.read_csv("Setores.csv",delimiter = ";",index_col = "Codigo")
+Fech = pd.read_csv("Fechamento.csv",delimiter = ";",index_col="Data",decimal = ".")
 
 #Convertendo vírgula em ponto e tranformando em float
 
@@ -54,23 +54,9 @@ RetSetorial['Máquinas Indust'].cumsum().plot()
 
 plt.legend(['Papel e Celulose','Máquinas Indust'])
 
-#AnnualRet = RetSetorial.rolling(window = 36).aggregate(annualize_rets,periods_per_year=12)
-
-#AnnualRet['Mineração'].plot(figsize = (14,8))
-
 ts_corr = RetSetorial.rolling(window = 36).corr()
 ts_corr.index.names=['Date','Industry']
 print(ts_corr[2520:4000])
-
-
-
-#GroupCorr = ts_corr.groupby(level="Data").apply(lambda cormat: cormat.values.mean())
-#GroupRet = AnnualRet.groupby(level="Data").apply(lambda cormat: cormat.values.mean())
-#GroupCorr["2014":"2018"].plot(label = "Correlation",figsize = (10,6),legend = True,secondary_y = True)
-#GroupRet["2014":"2018"].plot(label = "Returns",figsize = (10,6),legend = True)
-
-#print("A correlação entre as séries é de",np.corrcoef(GroupCorr["2014":"2018"],GroupRet["2014":"2018"])[0][1])
-
 
 
 
